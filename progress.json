@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T13:01:25.724Z",
+  "generated_at": "2026-11-03T15:49:35.240Z",
   "items": {
     "problem:1101": {
       "kind": "problem",
@@ -261,6 +261,19 @@
       "last_pushed_at": "2026-11-01T13:01:23.961Z",
       "language": "python",
       "lines": 47
+    },
+    "problem:63": {
+      "kind": "problem",
+      "id": "63",
+      "title": "Implement the Conjugate Gradient Method for Solving Linear Systems",
+      "difficulty": "hard",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/63",
+      "path": "problems/0063-implement-the-conjugate-gradient-method-for-solving-linear-systems",
+      "first_solved_at": "2026-11-03T15:49:39.692Z",
+      "last_pushed_at": "2026-11-03T15:49:39.692Z",
+      "language": "python",
+      "lines": 54
     }
   }
 }
