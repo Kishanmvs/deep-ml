@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**27** solved · 21 problems · 0 labs · 6 math
+**28** solved · 22 problems · 0 labs · 6 math
 
 ![Coverage](./coverage.svg)
 
@@ -24,6 +24,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Sort results with ORDER BY](https://www.deep-ml.com/problems/1104) | easy | 2026-09-27 | [solution](problems/1104-sort-results-with-order-by) |
 | [Top N with LIMIT](https://www.deep-ml.com/problems/1106) | easy | 2026-10-22 | [solution](problems/1106-top-n-with-limit) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-10-27 | [solution](problems/0002-transpose-of-a-matrix) |
+| [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-11-09 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Cholesky at Work: Triangular Solves, Log-Determinant and MVN Sampling](https://www.deep-ml.com/problems/1776) | medium | 2026-11-03 | [solution](problems/1776-cholesky-at-work-triangular-solves-log-determinant-and-mvn-sampling) |
 | [Cholesky Decomposition](https://www.deep-ml.com/problems/334) | medium | 2026-10-31 | [solution](problems/0334-cholesky-decomposition) |
 | [Gaussian Elimination for Solving Linear Systems](https://www.deep-ml.com/problems/58) | medium | 2026-10-28 | [solution](problems/0058-gaussian-elimination-for-solving-linear-systems) |
