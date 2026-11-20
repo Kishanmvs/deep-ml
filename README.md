@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**43** solved · 37 problems · 0 labs · 6 math
+**44** solved · 38 problems · 0 labs · 6 math
 
 ![Coverage](./coverage.svg)
 
@@ -19,6 +19,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Filter rows with WHERE](https://www.deep-ml.com/problems/1103) | easy | 2026-09-27 | [solution](problems/1103-filter-rows-with-where) |
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2026-10-22 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-10-22 | [solution](problems/0001-matrix-vector-dot-product) |
+| [Random Shuffle of Dataset](https://www.deep-ml.com/problems/29) | easy | 2026-11-20 | [solution](problems/0029-random-shuffle-of-dataset) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-11-06 | [solution](problems/0003-reshape-matrix) |
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2026-11-09 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
 | [SELECT all rows](https://www.deep-ml.com/problems/1101) | easy | 2026-09-27 | [solution](problems/1101-select-all-rows) |
