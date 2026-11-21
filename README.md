@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**45** solved · 39 problems · 0 labs · 6 math
+**46** solved · 40 problems · 0 labs · 6 math
 
 ![Coverage](./coverage.svg)
 
@@ -35,6 +35,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-11-09 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Cholesky at Work: Triangular Solves, Log-Determinant and MVN Sampling](https://www.deep-ml.com/problems/1776) | medium | 2026-11-03 | [solution](problems/1776-cholesky-at-work-triangular-solves-log-determinant-and-mvn-sampling) |
 | [Cholesky Decomposition](https://www.deep-ml.com/problems/334) | medium | 2026-10-31 | [solution](problems/0334-cholesky-decomposition) |
+| [Divide Dataset Based on Feature Threshold](https://www.deep-ml.com/problems/31) | medium | 2026-11-21 | [solution](problems/0031-divide-dataset-based-on-feature-threshold) |
 | [Gaussian Elimination for Solving Linear Systems](https://www.deep-ml.com/problems/58) | medium | 2026-10-28 | [solution](problems/0058-gaussian-elimination-for-solving-linear-systems) |
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2026-11-14 | [solution](problems/0018-implement-k-fold-cross-validation) |
 | [Implementing Basic Autograd Operations](https://www.deep-ml.com/problems/26) | medium | 2026-11-19 | [solution](problems/0026-implementing-basic-autograd-operations) |
